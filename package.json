@@ -65,7 +65,7 @@
     "zone.js": "0.8.26"
   },
   "devDependencies": {
-    "@ionic/app-scripts": "3.1.10",
+    "@ionic/app-scripts": "^3.2.4",
     "@ionic/cli-plugin-cordova": "1.6.2",
     "@ionic/cli-plugin-ionic-angular": "1.4.1",
     "@types/chart.js": "^2.7.34",
